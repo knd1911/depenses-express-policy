@@ -25,4 +25,4 @@ Nous mettons tout en œuvre pour assurer la sécurité des données stockées lo
 
 ---
 
-Dernière mise à jour : [Date d’aujourd’hui]
+Dernière mise à jour : 03 juillet 2025
